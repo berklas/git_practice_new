@@ -1,0 +1,43 @@
+
+
+body {
+    margin: 0px;
+
+}
+.topnavbar {
+   
+    background-color: #2A6E48;
+    height: 250px;
+    width: 100%;
+    box-sizing: border-box;
+    display: inline-block;
+   
+    position: relative;
+}
+
+.topnavbar a {
+   padding-right: 20px;
+    position: relative;
+   
+   
+    text-decoration: none;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.navbarlogo {
+    
+    width: 140px;
+    height: 120px;
+    position: relative;
+    border: solid blue;
+    position: absolute;
+}
+.navbarimage {
+    width: 150px;
+    position: absolute;
+}
+header {
+   
+    position: absolute;
+}
